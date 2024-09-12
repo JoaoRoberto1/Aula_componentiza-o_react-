@@ -1,0 +1,16 @@
+*{
+  background-color: #07072a;
+  align-items: center;
+  justify-content: center;
+}
+
+.little-title{
+  font-size: 1.5rem;
+  color: #fff;
+}
+
+.container-1 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 30px;
+}

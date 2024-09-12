@@ -1,0 +1,28 @@
+.card {
+    background-color: #2f0952;
+    border: 1px solid #ccc;
+    padding: 0 1.5rem 1.5rem 0 ;
+    border-radius: 8px;
+    width: 100%;
+    box-sizing: border-box;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.card-title {
+    background-color: #2f0952;
+    margin-bottom: 10px;
+    color:white
+}
+
+.subtitle {
+    font-size: .7rem;
+    background-color: #2f0952;
+    color: #fff;
+}
+
+.card-descripition {
+    background-color: #2f0952;
+    color: white;
+    font-size: 14px;
+}
